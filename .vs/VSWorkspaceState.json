@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChatServer",
+    "\\ChatServer2",
+    "\\GateServer",
+    "\\StatusServer",
+    "\\VarifyServer"
+  ],
+  "SelectedNode": "\\GateServer\\GateServer.cpp",
+  "PreviewInSolutionExplorer": false
+}
