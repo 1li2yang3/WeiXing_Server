@@ -6,7 +6,6 @@
 ![image](https://github.com/1li2yang3/WeiXing_Server/blob/main/%E7%99%BB%E5%BD%95.png)
 用户A向用户B发送消息，若两人在同一聊天服务器下，则服务器转发消息，否则转发给StatusServer查找用户B所在服务器进行转发。
 ![image](https://github.com/1li2yang3/WeiXing_Server/blob/main/%E9%80%9A%E8%AE%AF.png)
-项目涉及iocontex、mysqlconnection、Redisconnection、grpcconnectin等池保证并发性，采用分布式架构解决高并发下单个服务器瓶颈，通过对该项目的学习，加强了我对项目架构的理解和并发的认知。
-
+项目涉及iocontex、mysqlconnection、Redisconnection、grpcconnectin等池保证并发性，采用分布式架构解决高并发下单个服务器瓶颈
 
 
